@@ -1,0 +1,39 @@
+We are seeking a skilled and motivated Python Developer to join our dynamic team. The ideal candidate will have experience in building and maintaining web applications, expertise in backend development, and a strong understanding of REST APIs.
+
+Key Responsibilities:
+
+Develop, test, and maintain high-quality web applications using Python and related frameworks.
+
+Build and integrate RESTful APIs for seamless communication between frontend and backend.
+
+Collaborate with cross-functional teams to define, design, and ship new features.
+
+Troubleshoot, debug, and optimize existing code for performance and scalability.
+
+Participate in code reviews and ensure adherence to best coding practices.
+
+Required Skills and Qualifications:
+
+Strong proficiency in Python programming language.
+
+Experience with Django or Flask web frameworks.
+
+Knowledge of REST API design and implementation.
+
+Familiarity with relational databases (e.g., PostgreSQL, MySQL) and ORM tools.
+
+Understanding of version control systems, preferably Git.
+
+Good problem-solving skills and ability to work independently.
+
+Strong communication and teamwork abilities.
+
+Preferred Qualifications:
+
+Experience with cloud platforms such as AWS, Azure, or Google Cloud.
+
+Familiarity with containerization tools like Docker and orchestration with Kubernetes.
+
+Knowledge of front-end technologies (JavaScript, HTML, CSS) is a plus.
+
+Exposure to Agile development methodologies.
