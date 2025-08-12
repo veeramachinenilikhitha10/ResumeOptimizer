@@ -90,6 +90,7 @@ Preserve full PDF formatting with OCR/template mapping
 Export directly to PDF format
 Add GUI or web-based interface
 License:This project is open-source for educational and personal use
+
 Author:Veeramachineni Likhitha
 
 
