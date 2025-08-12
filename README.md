@@ -3,7 +3,7 @@
 
 📌 Overview
 
-This is an AI-powered Resume Optimiser and Generator that takes:
+.This is an AI-powered Resume Optimiser and Generator that takes:
 
 Input: Candidate resume (PDF/DOCX) and a target job description (plain text)
 
@@ -104,12 +104,19 @@ Added to Projects: cloud
 Notes:
 
 DOCX resumes preserve their formatting 100%
+
 PDF resumes are supported but may lose complex layouts after conversion to DOCX
+
 Keywords are placed in relevant sections, not simply appended as a bulk list
+
 Future Enhancements
+
 Use NLP for smarter keyword classification and insertion
+
 Preserve full PDF formatting with OCR/template mapping
+
 Export directly to PDF format
+
 Add GUI or web-based interface
 
 License:This project is open-source for educational and personal use
