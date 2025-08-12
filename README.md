@@ -1,5 +1,6 @@
 
 📝 AI Resume Optimiser and Generator
+
 📌 Overview
 This is an AI-powered Resume Optimiser and Generator that takes:
 
@@ -33,11 +34,17 @@ Folder Structure:
 resume_optimizer/
 │
 ├── main.py Main script
+
 ├── resume.docx or resume.pdf (input resume)
+
 ├── job_desc.txt Target job description (text)
+
 ├── optimised_resume.docx Optimised output resume
+
 ├── change_log.txt Summary of changes
+
 └── README.md Project documentation
+
 
 Setup Instructions:
 
@@ -89,6 +96,7 @@ Use NLP for smarter keyword classification and insertion
 Preserve full PDF formatting with OCR/template mapping
 Export directly to PDF format
 Add GUI or web-based interface
+
 License:This project is open-source for educational and personal use
 
 Author:Veeramachineni Likhitha
